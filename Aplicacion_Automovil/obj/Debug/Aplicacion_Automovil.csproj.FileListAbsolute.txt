@@ -1,0 +1,18 @@
+c:\users\yadder\documents\visual studio 2012\Projects\Aplicacion_Automovil\Aplicacion_Automovil\bin\Debug\Aplicacion_Automovil.exe.config
+c:\users\yadder\documents\visual studio 2012\Projects\Aplicacion_Automovil\Aplicacion_Automovil\bin\Debug\Aplicacion_Automovil.exe
+c:\users\yadder\documents\visual studio 2012\Projects\Aplicacion_Automovil\Aplicacion_Automovil\bin\Debug\Aplicacion_Automovil.pdb
+c:\users\yadder\documents\visual studio 2012\Projects\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.csprojResolveAssemblyReference.cache
+c:\users\yadder\documents\visual studio 2012\Projects\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.Form1.resources
+c:\users\yadder\documents\visual studio 2012\Projects\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.Properties.Resources.resources
+c:\users\yadder\documents\visual studio 2012\Projects\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.csproj.GenerateResource.Cache
+c:\users\yadder\documents\visual studio 2012\Projects\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.exe
+c:\users\yadder\documents\visual studio 2012\Projects\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.pdb
+C:\E\Cursos\ipc2\Tarea3\Aplicacion_Automovil\Aplicacion_Automovil\Aplicacion_Automovil\bin\Debug\Aplicacion_Automovil.exe.config
+C:\E\Cursos\ipc2\Tarea3\Aplicacion_Automovil\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.exe
+C:\E\Cursos\ipc2\Tarea3\Aplicacion_Automovil\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.pdb
+C:\E\Cursos\ipc2\Tarea3\Aplicacion_Automovil\Aplicacion_Automovil\Aplicacion_Automovil\bin\Debug\Aplicacion_Automovil.exe
+C:\E\Cursos\ipc2\Tarea3\Aplicacion_Automovil\Aplicacion_Automovil\Aplicacion_Automovil\bin\Debug\Aplicacion_Automovil.pdb
+C:\E\Cursos\ipc2\Tarea3\Aplicacion_Automovil\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.csprojResolveAssemblyReference.cache
+C:\E\Cursos\ipc2\Tarea3\Aplicacion_Automovil\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.Form1.resources
+C:\E\Cursos\ipc2\Tarea3\Aplicacion_Automovil\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.Properties.Resources.resources
+C:\E\Cursos\ipc2\Tarea3\Aplicacion_Automovil\Aplicacion_Automovil\Aplicacion_Automovil\obj\Debug\Aplicacion_Automovil.csproj.GenerateResource.Cache
